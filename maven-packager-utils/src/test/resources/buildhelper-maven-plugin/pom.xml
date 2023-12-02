@@ -120,6 +120,6 @@
   </reporting>
 
   <properties>
-    <mavenVersion>2.0.2</mavenVersion>
+    <mavenVersion>3.8.1</mavenVersion>
   </properties>
 </project>
